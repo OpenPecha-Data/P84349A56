@@ -1,0 +1,98 @@
+id: P84349A56
+initial_creation_type: input
+source_metadata:
+  title: Bodhisatvapiṭaka
+  language: zh
+  volumes:
+    6b5849247a3a423da7f7e11760ee207a:
+      title: CI_Folio 2a
+      base_file: CI_Folio 2a.txt
+      work_id: W620E1A86
+    b2bfc761a70f45dcad5a74b9883e6d44:
+      title: CI_Folio 2b
+      base_file: CI_Folio 2b.txt
+      work_id: W66374AE4
+    ed0604832c21469daadd3efb8ea49009:
+      title: CI_Folio 3a
+      base_file: CI_Folio 3a.txt
+      work_id: WF6EA1422
+    bdd4e8145bc04f2aa1185e0fc18f09bf:
+      title: CI_Folio 3b
+      base_file: CI_Folio 3b.txt
+      work_id: WB453BF05
+    f907e328b9fe4405b0e2833b574f9333:
+      title: CI_Folio 4a
+      base_file: CI_Folio 4a.txt
+      work_id: WD7B1DDD4
+    fabcbdd1526e480ea9995225c90fb2e4:
+      title: CI_Folio 4b
+      base_file: CI_Folio 4b.txt
+      work_id: W5420B444
+    1233f38418fc419ca9d7a6e6ee048697:
+      title: CI_Folio 5a
+      base_file: CI_Folio 5a.txt
+      work_id: W75293F72
+    5a7e7b85872b43dfa286a3e3a7803e0b:
+      title: CI_Folio 5b
+      base_file: CI_Folio 5b.txt
+      work_id: W2D301339
+    47e8395b70b7480ca372cbe2370ea058:
+      title: CI_Folio 6a
+      base_file: CI_Folio 6a.txt
+      work_id: W3A9797BA
+    52990b09cd46477c8009301ce9a4183e:
+      title: 'Chapter 10: Dhyānapāramitā'
+      base_file: 'Chapter 10: Dhyānapāramitā.txt'
+      work_id: WAF119BA8
+    6dd56a25dc9a4d0a8056215cfb82bf22:
+      title: 'Chapter 11: Prajñāpāramitā'
+      base_file: 'Chapter 11: Prajñāpāramitā.txt'
+      work_id: W8EEFF8DF
+    d0d7b99232124e29a1908df1f115612f:
+      title: 'Chapter 2: Kimbhīrayakṣa'
+      base_file: 'Chapter 2: Kimbhīrayakṣa.txt'
+      work_id: W69EAB6DC
+    9555e25f0e594c97819865f50db933d9:
+      title: 'Chapter 3: Bodhisatvaparīkṣā'
+      base_file: 'Chapter 3: Bodhisatvaparīkṣā.txt'
+      work_id: W7C6CF853
+    965455f4f5474810bcb10a22ec25ee2e:
+      title: 'Chapter 4: Tathāgatācintya'
+      base_file: 'Chapter 4: Tathāgatācintya.txt'
+      work_id: WFCC5CCF6
+    1cdf3fd225434bb3ad45922ef93b42af:
+      title: 'Chapter 5: Caturbrahmavihāra'
+      base_file: 'Chapter 5: Caturbrahmavihāra.txt'
+      work_id: W220C8855
+    47a116b660384a6eb3de8ad8e112b4a7:
+      title: 'Chapter 6: Dānapāramitā'
+      base_file: 'Chapter 6: Dānapāramitā.txt'
+      work_id: W73284BE3
+    392cf39461b247c7893b1707b1dab6ad:
+      title: 'Chapter 7: Śīlapāramitā'
+      base_file: 'Chapter 7: Śīlapāramitā.txt'
+      work_id: W7D4A5F3A
+    9ac417965e6549d49d836511f64b08a7:
+      title: 'Chapter 8: Kṣāntipāramitā'
+      base_file: 'Chapter 8: Kṣāntipāramitā.txt'
+      work_id: WAC16648B
+    f69a50ee3f8f41cdb313c9970ad2510a:
+      title: 'Chapter 9: Vīryapāramitā'
+      base_file: 'Chapter 9: Vīryapāramitā.txt'
+      work_id: WED5F448C
+    b1f074bb03f249bda7812ef5dace67d1:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W0E9B4B0B
+    1b954508dc1b47e8ad49f795bd3ff619:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W67419F32
+    5df65ce9dba94b68bc515979ed88e158:
+      title: Title
+      base_file: Title.txt
+      work_id: W5B3D35C3
+  chapter_to_tile:
+    CI: 'Chapter 1: Gṛhapati'
+created_at: '2022-03-01T21:18:23.743185'
+last_modified_at: '2022-03-01T21:18:23.743193'
